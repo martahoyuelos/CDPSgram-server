@@ -8,7 +8,7 @@
 ### How to install
 
 <pre>
-git clone https://github.com/aalonsog/CDPSgram-server.git
+git clone https://github.com/martahoyuelos/CDPSgram-server.git
 cd CDPSgram-server
 npm install
 </pre>
